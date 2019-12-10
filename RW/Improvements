@@ -2,23 +2,26 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>improvments</title>
+		<title>Max Stothart, Improvements</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
-  		<nav>
+				<nav>
     		<ul>
-        		<li><a href="https://maxstothart.github.io/epps/">Home</a></li>
-	        	<li><a href="https://maxstothart.github.io/epss/RW/Improvements">What Have I Improved On</a></li>
-        		<li><a href="https://maxstothart.github.io/epss/RW/Highlights">Next</a></li>
-        		<li><a href="https://maxstothart.github.io/epss/RW/">Previous</a></li>
+        		<li><a href="https://maxstothart.github.io/epss/">Home</a></li>
+	        	<li><a href="https://maxstothart.github.io/epps/RW/Message/">Next</a></li>
+			<li><a href="https://maxstothart.github.io/epps/">Previous</a></li>
     		</ul>
 		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Max Stothart!</h1>
+				<p>lll!</p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
 
-        		<h1 style="background-color:DodgerBlue;">What Have I Improved On?</h1>
-				<p style="color:DodgerBlue;">This year I have improved a lot at Handwriting.  At the start of the year no one could read my writing but now they can!
-            It"s still not perfect but it is certainly better.  I have noticed also that my social skills are getting better!</p>
-
+		</footer>
 	</body>
 </html>
