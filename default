@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>summary, </title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+				<nav>
+    		<ul>
+        		<li><a href="https://maxstothart.github.io/epss/">Home</a></li>
+	        	<li><a href="https://maxstothart.github.io/epps/RW//">Next</a></li>
+			<li><a href="https://maxstothart.github.io/epps/RW/">Previous</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1 style="background-color:Orange;"></h1>
+				<p style="color:DodgerBlue;"></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+
+		</footer>
+	</body>
+</html>
